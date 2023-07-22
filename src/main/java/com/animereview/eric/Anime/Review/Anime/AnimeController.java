@@ -1,5 +1,4 @@
 package com.animereview.eric.Anime.Review.Anime;
-import org.apache.coyote.Response;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
